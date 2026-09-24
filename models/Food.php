@@ -1,4 +1,5 @@
 <?php
+//Tak Best DOH FOOD NI AKU NAK MAKAN KAT MAMAK
 class Food {
     public static function getMenu() {
         return[
